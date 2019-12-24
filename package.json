@@ -1,0 +1,21 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stinoz <stijnbuurman@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.21"
+  }
+}
